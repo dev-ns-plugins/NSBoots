@@ -1,4 +1,4 @@
-# 📦 NSBots
+# 📦 NSBoots
 
 **NSBots** é um plugin de movimentação avançada para servidores Minecraft. Ele oferece botas personalizadas com salto direcional, encantamentos configuráveis e entrega via comando. Ideal para servidores que buscam jogabilidade dinâmica, mobilidade estratégica e itens exclusivos.
 
