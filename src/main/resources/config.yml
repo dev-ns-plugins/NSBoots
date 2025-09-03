@@ -1,0 +1,19 @@
+boots:
+  name: "&bBOTAS DO NSBOT"
+  material: "LEATHER_BOOTS"
+  lore:
+    - "&7Botas mágicas que aumentam sua velocidade"
+    - "&7Te dão super pulo e proteção contra quedas"
+    - "&7Ao pular, você é arremessado pra frente!"
+  enchantments:
+    PROTECTION_FALL: 4
+    DURABILITY: 3
+  effects:
+    SPEED: 1
+    JUMP: 2
+    DAMAGE_RESISTANCE: 0
+
+jump:
+  power: 1.2     # força horizontal
+  height: 0.5    # força vertical
+  cooldown: 3000 # tempo em milissegundos entre pulos com dash
